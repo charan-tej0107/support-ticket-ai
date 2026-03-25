@@ -1,0 +1,14 @@
+[
+  {
+    "issue": "vpn not connecting",
+    "solution": "Restart VPN and clear cache"
+  },
+  {
+    "issue": "forgot password",
+    "solution": "Click on reset password link"
+  },
+  {
+    "issue": "application error",
+    "solution": "Reinstall the application"
+  }
+]
